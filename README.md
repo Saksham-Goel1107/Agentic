@@ -55,7 +55,7 @@ pip install requests
 
 ## Customization
 
-- You can change the LLM model by editing the `MODEL` variable in `dev_agent.py`. Suugested to use mistral or any other more parameters model for better response and systen specs like use deepseek-r1:671b if you have 1000gb of ram
+- You can change the LLM model by editing the `MODEL` variable in `dev_agent.py`. Suugested to use mistral or any other more parameters model for better response and according to your systen specs like use deepseek-r1:671b if you have 1000gb of ram
 - The agent is easily extensible for new workflows or integrations.
 
 ---
